@@ -7,4 +7,4 @@ Welcome to my portfolio project! This repository contains the source code for my
 html
 css
 boostrap
-design (images)
+design (images).
